@@ -1,0 +1,13 @@
+# 실제 프로젝트 공간 (bare repo + worktree)
+workspace/
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Claude 로컬 권한 설정 (개인 환경마다 다름)
+.claude/settings.local.json
